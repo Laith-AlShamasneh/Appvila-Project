@@ -1,0 +1,4 @@
+wwwroot\assets\images\shared\footer-logo.svg
+wwwroot\assets\images\shared\header-logo.svg
+wwwroot\assets\images\shared\phone.png
+wwwroot\assets\json\labels.json

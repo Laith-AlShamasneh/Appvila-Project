@@ -1,0 +1,146 @@
+[
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetAboutUs",
+    "RelativePath": "api/home/get/about-us",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetAchievement",
+    "RelativePath": "api/home/get/achievement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetCallAction",
+    "RelativePath": "api/home/get/call-action",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetFeatures",
+    "RelativePath": "api/home/get/features",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetFooterMenus",
+    "RelativePath": "api/home/get/footer-menus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetHeaderMenu",
+    "RelativePath": "api/home/get/header-menu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetPricingPlans",
+    "RelativePath": "api/home/get/pricing-plans",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppvilaAPI.Controllers.SchoolManagement.HomeController",
+    "Method": "GetSetting",
+    "RelativePath": "api/home/get/setting",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.StandardApiResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

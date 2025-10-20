@@ -1,0 +1,12 @@
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\bin\Debug\net8.0\Models.dll
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.dll
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\Laith Al-Shamasneh\Desktop\Appvila\Models\obj\Debug\net8.0\ref\Models.dll
